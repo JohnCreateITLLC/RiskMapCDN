@@ -142,7 +142,7 @@ function MyLogoControl(controlDiv) {
     controlDiv.style.padding = '10px';
 
     var logo = document.createElement('img');
-    logo.src = 'crimeometer-data-visualization-kit/static/crimeometer_logo.png';
+    logo.src = 'https://johncreateitllc.github.io/RiskMapCDN/crimeometer_logo.png';
     logo.style.cursor = 'pointer';
     controlDiv.appendChild(logo);
 
