@@ -4,7 +4,7 @@
 */
 
 
-let icon_base = 'crimeometer-data-visualization-kit/static/icons/'
+let icon_base = 'https://johncreateitllc.github.io/RiskMapCDN/'
 var icons = {
     'Shoplifting': {
         icon: icon_base + 'building.png',
