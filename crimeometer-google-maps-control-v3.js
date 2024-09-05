@@ -163,6 +163,6 @@ function MyGraphicControl(controlDiv) {
     controlDiv.style.padding = '10px';
 
     var graphic = document.createElement('img');
-    graphic.src = 'crimeometer-data-visualization-kit/static/risk_graphic.png';
+    graphic.src = 'https://johncreateitllc.github.io/RiskMapCDN/risk_graphic.png';
     controlDiv.appendChild(graphic);
 }
